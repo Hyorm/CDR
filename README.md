@@ -2,6 +2,9 @@
 
 ## Summary
 - Database Group Project
+  - Complete collaboration
+  - Communicate perfectly with four team members and distribute work perfectly
+  - Development and Engineering
 - Customized Drink Recommentder
 
 ### Problem Statement
